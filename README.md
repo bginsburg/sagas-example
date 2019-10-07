@@ -1,4 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Basic exmaple of how to use sagas
+
+
+## What to look for:
+
+# Under src/
+
+You will find all the regular files with both sagas and thunk setup
+Explore the difference between the two (saga and thunks) by changing the action  name in the `Data.jsx` file
+from `getData (sagas)` to `fetchDataThunk (thunk)`
 
 ## Available Scripts
 
