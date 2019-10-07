@@ -3,7 +3,7 @@
 
 ## What to look for:
 
-# Under src/
+### Under src/
 
 You will find all the regular files with both sagas and thunk setup
 Explore the difference between the two (saga and thunks) by changing the action  name in the `Data.jsx` file
